@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952237113478",
+    "firebase_url": "https://ffmpeg-af4f9.firebaseio.com",
+    "project_id": "ffmpeg-af4f9",
+    "storage_bucket": "ffmpeg-af4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952237113478:android:f25dc4fe582d656cc49107",
+        "android_client_info": {
+          "package_name": "com.bassam.ffmpeg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952237113478-hrm1ubad7od6ug4tfqcbrlfrkut1jr7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjw2xwSwnPdMPXKR3NGpZ-nkh0RMsxpiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952237113478-hrm1ubad7od6ug4tfqcbrlfrkut1jr7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
